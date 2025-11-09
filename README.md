@@ -4,11 +4,11 @@ El repositorio está dividido en tres ejemplos:
 
 - `index.html`:
 
-  Muestra un ejemplo con `javascript`.
+  Muestra un ejemplo con `javascript` vanilla.
 
 - `from.html` y `to.html`
 
-  Muestran un ejemplo con `css` entre páginas.
+  Muestran un ejemplo con `css` para navegación entre páginas estáticas.
 
 - Directorio `react`:
 
