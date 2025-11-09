@@ -28,6 +28,8 @@ Dejo también por aquí unos ejemplos que me han parecido interesantes:
 
 - [Filtrado de elementos](https://codepen.io/kevinpowell/pen/GRzxybd/c5c073666a8225c2c8f2fadd4d7c049b)
 
-- [Tutorial completo](https://www.frontend.fyi/tutorials/css-view-transitions-with-react)
+- [Drag and drop](https://www.frontend.fyi/tutorials/css-view-transitions-with-react)
 
-- [Demo del tutorial](https://www.youtube.com/watch?v=nZtg-xzhy0g)
+- [Tutorial completo de Youtube](https://www.youtube.com/watch?v=nZtg-xzhy0g)
+
+- [Demo del tutorial](https://viewtransition.bernack.com/from.html)
