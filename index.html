@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>View transitions</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Kanit:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="grid.css" />
+  </head>
+  <body>
+    <main>
+      <nav>
+        <h1>View transitions</h1>
+        <ul>
+          <li><a class="navigation" href="/" data-current="true">Home</a></li>
+          <li>
+            <a id="from" class="navigation" href="./from.html">From</a>
+          </li>
+          <li>
+            <a id="from" class="navigation" href="./to.html">To</a>
+          </li>
+        </ul>
+      </nav>
+      <section>
+        <button class="toggle-layout">Toggle layout</button>
+
+        <ul class="grid two-columns">
+          <li class="box box--1"><p>Box 1</p></li>
+          <li class="box box--2"><p>Box 2</p></li>
+          <li class="box box--3"><p>Box 3</p></li>
+          <li class="box box--4"><p>Box 4</p></li>
+          <li class="box box--5"><p>Box 5</p></li>
+          <li class="box box--6"><p>Box 6</p></li>
+          <li class="box box--7"><p>Box 7</p></li>
+          <li class="box box--8"><p>Box 8</p></li>
+        </ul>
+      </section>
+    </main>
+
+    <script src="script.js" defer></script>
+  </body>
+</html>

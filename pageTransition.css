@@ -1,0 +1,18 @@
+/* :root {
+  view-transition-name: none;
+} */
+
+@view-transition {
+  navigation: auto;
+}
+
+.navigation {
+  &::before {
+    view-transition-name: navigation;
+  }
+}
+
+::view-transition-old(navigation),
+::view-transition-new(navigation) {
+  height: 100%;
+}
